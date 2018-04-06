@@ -1,3 +1,3 @@
 module Aquatone
-  VERSION = "0.5.0-7".freeze
+  VERSION = "0.5.1".freeze
 end
